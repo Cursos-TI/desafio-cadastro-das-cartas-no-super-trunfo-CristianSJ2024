@@ -16,7 +16,6 @@ int main() {
     printf("Informe o nome da cidade: ");
     scanf("%s", &nome);
     
-    
     printf("Informe a população da cidade: ");
     scanf("%ld", &populacao);
     
