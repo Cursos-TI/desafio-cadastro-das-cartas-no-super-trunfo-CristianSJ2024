@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// Estrutura para armazenar os dados das cartas
 typedef struct {
     char estado[50];
     char codigo[10];
